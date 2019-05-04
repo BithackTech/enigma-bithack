@@ -1,5 +1,5 @@
 ## 什么是隐私计算和隐私网络？
-原文：[Blockchain Privacy: Transactional or Computational?](https://blog.enigma.co/blockchain-privacy-transactional-or-computational-c4580d17b1f9) 
+原文：[Blockchain Privacy: Transactional or Computational?](https://blog.enigma.co/blockchain-privacy-transactional-or-computational-c4580d17b1f9)  
 翻译: 吕童安
 
 "privacy"指的是什么？在区块链生态系统中，"privacy"这个词已被用于许多不同的语境之中，导致其意义可能已经被人们所混淆。鉴于致力于“隐私保护”的区块链项目数量众多，如何准确给这些项目分类便显得至关重要，只有这样我们才能更好地理解、比较和评估各项目。"privacy"通常具有两层含义：匿名交易与隐私计算。在这篇文章中，我们将深入研究"privacy"对网络、用户和去中心化应用来说意味着什么。
