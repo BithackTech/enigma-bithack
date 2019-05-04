@@ -1,4 +1,7 @@
 ## Enigma：去中心化的隐私计算平台
+作者：Guy Zyskind, Oz Nathan, Alex ’Sandy’ Pentland  
+翻译：李其柄、黄诤杰、陈岩
+
 ### 摘要
 Enigma是一个点对点网络，允许互不信任的多个参与方共同对数据进行存储和计算，并能彻底地保证数据的隐私。Enigma的计算模型建立在安全多方计算之上，具体地，我们采用了高度优化的可验证秘密分享体系。在隐私存储方面，我们使用了改进版的分散哈希表来保护共享秘密的数据。一个外部的区块链被用作该存储计算网络的控制器，管理着数据的访问控制权限和数字身份，并充当一个防篡改的事件日志库。保证金和服务费可以激励系统的运作，确保隐私计算的正确性和公平性。类似于比特币，Enigma也不需要一个可信的第三方，系统能够根据激励系统自主地控制个人数据。这是用户第一次能够在密码学保护下共享他们的隐私数据。
 ### 1.动机
@@ -169,48 +172,26 @@ Enigma网络中数据存储，数据检索和计算操作都有固定的价格�
 - 去中心化控制- 使用隐私合约设置支出限制、多重签名、CHECKLOCKTIMEVERIFY类似控件等。潜在的攻击者无从得知锁定时间、限制条件或所需签名的数量。
 
 ### References
-[1] Diamond, Jared, and Germs Guns. Steel: The fates of human societies. New York: W. W. Norton, 1997.
-
-[2] de Montesquieu, Charles. The spirit of the laws. Digireads. com Publishing, 2004.
-
-[3] Perry, Barlow John. A Declaration of the Independence of Cyberspace. Electronic Frontier Foundation 8, 1996.
-
-[4] Vindu Goel. Facebook tinkers with users emotions in news feed experiment, stirring outcry. The New York Times, 2014.
-
-[5] James Ball. ”Nsas prism surveillance program: how it works and what it can do.” The Guardian, 2013.
-
-[6] Bill Hardekopf. ”The Big Data Breaches of 2014.” Forbes, 2015.
-
-[7] Nick Szabo. ”The dawn of trustworthy computing.” 2014
-
-[8] Nick Szabo. ”The God Protocols.” 1997
-
-[9] Nakamoto, Satoshi. ”Bitcoin: A peer-to-peer electronic cash system.” Consulted 1.2012 (2008): 28.
-
-[10] Clark, Joseph Bonneau Andrew Miller Jeremy, Arvind Narayanan Joshua A. Kroll Edward, and W. Felten. ”SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurren- cies.”, Security and Privacy (SP), 2015 IEEE Symposium on. IEEE, 2015.
-
-[11] Maymounkov, Petar, and David Mazieres. ”Kademlia: A peer-to-peer information system based on the xor metric.” In Peer-to-Peer Systems, pp. 53-65. Springer Berlin Heidelberg, 2002.
-
-[12] Yao, Andrew C. ”Protocols for secure computations.” 2013 IEEE 54th Annual Symposium on Foundations of Computer Science. IEEE, 1982.
-
-[13] Ben-David, Assaf, Noam Nisan, and Benny Pinkas. ”FairplayMP: a system for secure multi- party computation.” Proceedings of the 15th ACM conference on Computer and communica- tions security. ACM, 2008.
-
-[14] Bogdanov, Dan, Sven Laur, and Jan Willemson. ”Sharemind: A framework for fast privacy- preserving computations.” Computer Security-ESORICS 2008. Springer Berlin Heidelberg, 2008. 192-206.
-
-[15] Team, VIFF Developement. ”Viff, the virtual ideal functionality framework.” 2009.
-
-[16] Shamir, Adi. ”How to share a secret.” Communications of the ACM 22.11 (1979): 612-613.
-
-[17] Ben-Or, Michael, Shafi Goldwasser, and Avi Wigderson. ”Completeness theorems for non- cryptographic fault-tolerant distributed computation.” Proceedings of the twentieth annual ACM symposium on Theory of computing. ACM, 1988.
-
-[18] Baum, Carsten, Ivan Damgrd, and Claudio Orlandi. ”Publicly auditable secure multi-party computation.” Security and Cryptography for Networks. Springer International Publishing, 2014. 175-196.
-
-[19] Damgrd, Ivan, et al. ”Practical covertly secure MPC for dishonest majorityor: Breaking the SPDZ limits.” Computer SecurityESORICS 2013. Springer Berlin Heidelberg, 2013. 1-18.
-
-[20] Cohen, Gil, et al. ”Efficient multiparty protocols via log-depth threshold formulae.” Advances in CryptologyCRYPTO 2013. Springer Berlin Heidelberg, 2013. 185-202.
-
-[21] Swanson, Tim. ”Consensus-as-a-service: a brief report on the emergence of permissioned, distributed ledger systems.”, 2015.
-
-[22] Bentov, Iddo, and Ranjit Kumaresan. ”How to use bitcoin to design fair protocols.” Advances in CryptologyCRYPTO 2014. Springer Berlin Heidelberg, 2014. 421-439.
-
+[1] Diamond, Jared, and Germs Guns. Steel: The fates of human societies. New York: W. W. Norton, 1997.  
+[2] de Montesquieu, Charles. The spirit of the laws. Digireads. com Publishing, 2004.  
+[3] Perry, Barlow John. A Declaration of the Independence of Cyberspace. Electronic Frontier Foundation 8, 1996.  
+[4] Vindu Goel. Facebook tinkers with users emotions in news feed experiment, stirring outcry. The New York Times, 2014.  
+[5] James Ball. ”Nsas prism surveillance program: how it works and what it can do.” The Guardian, 2013.  
+[6] Bill Hardekopf. ”The Big Data Breaches of 2014.” Forbes, 2015.  
+[7] Nick Szabo. ”The dawn of trustworthy computing.” 2014  
+[8] Nick Szabo. ”The God Protocols.” 1997  
+[9] Nakamoto, Satoshi. ”Bitcoin: A peer-to-peer electronic cash system.” Consulted 1.2012 (2008): 28.  
+[10] Clark, Joseph Bonneau Andrew Miller Jeremy, Arvind Narayanan Joshua A. Kroll Edward, and W. Felten. ”SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurren- cies.”, Security and Privacy (SP), 2015 IEEE Symposium on. IEEE, 2015.  
+[11] Maymounkov, Petar, and David Mazieres. ”Kademlia: A peer-to-peer information system based on the xor metric.” In Peer-to-Peer Systems, pp. 53-65. Springer Berlin Heidelberg, 2002.  
+[12] Yao, Andrew C. ”Protocols for secure computations.” 2013 IEEE 54th Annual Symposium on Foundations of Computer Science. IEEE, 1982.  
+[13] Ben-David, Assaf, Noam Nisan, and Benny Pinkas. ”FairplayMP: a system for secure multi- party computation.” Proceedings of the 15th ACM conference on Computer and communica- tions security. ACM, 2008.  
+[14] Bogdanov, Dan, Sven Laur, and Jan Willemson. ”Sharemind: A framework for fast privacy- preserving computations.” Computer Security-ESORICS 2008. Springer Berlin Heidelberg, 2008. 192-206.  
+[15] Team, VIFF Developement. ”Viff, the virtual ideal functionality framework.” 2009.  
+[16] Shamir, Adi. ”How to share a secret.” Communications of the ACM 22.11 (1979): 612-613.  
+[17] Ben-Or, Michael, Shafi Goldwasser, and Avi Wigderson. ”Completeness theorems for non- cryptographic fault-tolerant distributed computation.” Proceedings of the twentieth annual ACM symposium on Theory of computing. ACM, 1988.  
+[18] Baum, Carsten, Ivan Damgrd, and Claudio Orlandi. ”Publicly auditable secure multi-party computation.” Security and Cryptography for Networks. Springer International Publishing, 2014. 175-196.  
+[19] Damgrd, Ivan, et al. ”Practical covertly secure MPC for dishonest majorityor: Breaking the SPDZ limits.” Computer SecurityESORICS 2013. Springer Berlin Heidelberg, 2013. 1-18.  
+[20] Cohen, Gil, et al. ”Efficient multiparty protocols via log-depth threshold formulae.” Advances in CryptologyCRYPTO 2013. Springer Berlin Heidelberg, 2013. 185-202.  
+[21] Swanson, Tim. ”Consensus-as-a-service: a brief report on the emergence of permissioned, distributed ledger systems.”, 2015.  
+[22] Bentov, Iddo, and Ranjit Kumaresan. ”How to use bitcoin to design fair protocols.” Advances in CryptologyCRYPTO 2014. Springer Berlin Heidelberg, 2014. 421-439.  
 [23] Andrychowicz, Marcin, et al. ”Secure multiparty computations on bitcoin.” Security and Pri- vacy (SP), 2014 IEEE Symposium on. IEEE, 2014.
