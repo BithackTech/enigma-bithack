@@ -13,7 +13,7 @@
 
 - [Expanding Enigma’s Roadmap: Towards a Privacy Layer for the Decentralized Web](https://blog.enigma.co/expanding-enigmas-roadmap-towards-a-privacy-layer-for-the-decentralized-web-f1d6b7908251)
 
-- [https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd](https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd)
+- [Secret Nodes: Exploring Staking, Stakeholders, and ENG](https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd)
 
 - [Secret Nodes, Part 2: Exploring ENG Economics and Building a Sustainable Network](https://blog.enigma.co/secret-nodes-part-2-exploring-eng-economics-and-building-a-sustainable-network-3d0e9f8a9d40)
 
