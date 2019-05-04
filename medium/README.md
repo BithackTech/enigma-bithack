@@ -31,7 +31,7 @@
 
 - [Secret Auction Smart Contracts With Enigma: A Walkthrough](https://blog.enigma.co/secret-auction-smart-contracts-with-enigma-a-walkthrough-ec27f89f9f7c) (代码可能过时了？)
 
-- [Secret Voting: An Update & Code Walkthrough](https://blog.enigma.co/secret-voting-an-update-code-walkthrough-605e8635e725) ((代码可能过时了？))
+- [Secret Voting: An Update & Code Walkthrough](https://blog.enigma.co/secret-voting-an-update-code-walkthrough-605e8635e725) (代码可能过时了？)
  
 #### Solution
 
