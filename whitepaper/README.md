@@ -23,7 +23,7 @@ Enigma旨在连接现有的区块链和一个用以隐私密集型计算的链�
 代码在区块链(公共验证部分)和链下网络(隐私密集型的计算部分)上执行。 Enigma的执行方式确保了隐私和正确性，而单独的公共区块链只能保证后者。链下正确执行的证明被存储在区块链中用以审计。我们提供了一种脚本语言，支持使用隐私合约来设计端到端的分布式应用。这是一种更强大的智能合约变体，可以处理隐私信息（即，它们的状态不是严格公开的）。
 这种脚本语言也是图灵完备的，但这点不像它的可伸缩性那般重要。公共区块链中的代码执行是去中心化的，但不是分布式的，因为每个节点冗余地执行相同的代码并保持相同的公共状态。在Enigma中，计算任务被有效地分发到网络的特定子集节点上。同时，如图1所示，一个解释器自动地拆分了隐私合约的执行，从而改善了运行时间，同时保持隐私和可验证性。
 
-<div align=center><img width="60%" height="36%" src="figure/1.png"/>
+<div align=center><img width="55%" height="30%" src="figure/1.png"/>
 
 <div align=left>
 
@@ -35,7 +35,7 @@ Enigma旨在连接现有的区块链和一个用以隐私密集型计算的链�
 ### 4.链下存储
 链下节点构建了一个分布式数据库。每个节点都具有加密数据及其单元的独特视图，因此保证计算过程的隐私性和容错性。该数据库还可以存储未加密的大型公共数据（例如，文件）并将它们的访问地址记录到区块链。图2示例了单个节点的数据库视图。
 
-<div align=center><img width="60%" height="36%" src="figure/2.png"/>
+<div align=center><img width="50%" height="30%" src="figure/2.png"/>
 
 <div align=left>
 
@@ -50,19 +50,19 @@ Enigma旨在连接现有的区块链和一个用以隐私密集型计算的链�
 姚期智在1982年提出了第一个安全两方计算协议[12]。在论文中，他提出了著名的百万富翁问题，即有两位百万富翁想要在不透露他们的实际资产值的情况下，知道谁更富有。在此后的几十年中，百万富翁问题被推广到MPC，同时进一步推广到N个参与方的问题。通用MPC协议都可以由基本MPC门电路组成。近年来，通用MPC主要有两种范式：姚期智的串联（布尔）电路[13]和基于秘密共享的MPC，后者更常用于生产系统（例如，[14]和[15]），同时也是我们关注的焦点。
 一个阈值加密系统的定义为(t+1,n) - threshold，其中n是参与方的数量，t+1是解密一个被加密的秘密所需的最小参与方数量。秘密共享是阈值密码系统的一个例子，其中密码s被分割为n份并分散在n个参与方，重建s至少需要t+1个参与方。任何t个参与方的子集都无法获取该密钥的任何信息。线性秘密共享方案（LSSS）将秘密划分为多个共享单元(share)，而秘密是共享单元的线性组合。Shamir的秘密共享（SSS）是LSSS的一个例子，它在有限域Fp下使用多项式插值来保证秘密的安全[16]。具体来说，为了共享一个秘密s，我们选择一个随机的t次多项式q(x):
 
-<div align=center><img width="60%" height="36%" src="figure/3.png"/>
+<div align=center><img width="90%" height="60%" src="figure/3.png"/>
 
 <div align=left>
 
 共享单元采用如下方法来获得：
 
-<div align=center><img width="60%" height="36%" src="figure/4.png"/>
+<div align=center><img width="90%" height="60%" src="figure/4.png"/>
 
 <div align=left>
 
 然后，给定任何t+1个共享单元，我们就可以使用拉格朗日插值来重建q(x)，然后再使用s = q(0)来恢复秘密s。由于SSS是线性的，因此它也是加法同态的，即如果要对共享秘密进行加法和乘法的标量运算，可以直接在各共享单元上执行操作，无需与其他共享单元进行交互。公式如下：
 
-<div align=center><img width="60%" height="36%" src="figure/5.png"/>
+<div align=center><img width="90%" height="60%" src="figure/5.png"/>
 
 <div align=left>
 
@@ -77,20 +77,20 @@ Enigma旨在连接现有的区块链和一个用以隐私密集型计算的链�
 
 SPDZ。它是一种防御恶意攻击者(不诚实的多数)的协议，为MPC提供正确性保证。本质上，该协议由昂贵的离线(预处理)步骤组成，该步骤使用类同态加密(或SHE)来生成共享的随机性。在线阶段的计算类似于被动情况，并且不涉及昂贵的公钥加密，此时，每个共享单元被重新表示成共享及其MAC的组合，如下所示：
 
-<div align=center><img width="60%" height="36%" src="figure/55.png"/>
+<div align=center><img width="90%" height="60%" src="figure/55.png"/>
 
 <div align=left>
 
 其中α是固定的秘密共享的MAC密钥，而⟨•⟩表示修改后的秘密共享方案，这也是加法同态的。⟨•⟩-sharing无需揭示全局MAC密钥α即可工作，因此α可以被重复使用。
 跟前面类似，乘法相对加法更加复杂。乘法需要{⟨a⟩,⟨b⟩,⟨c⟩}三元组参与，这里c=ab，在预处理步骤中会生成许多这样的三元组。然后，给定两个秘密s1和s2，在⟨•⟩-sharing情况下，s = s1*s2的秘密共享是通过使用一个三元组来实现的:
 
-<div align=center><img width="60%" height="36%" src="figure/6.png"/>
+<div align=center><img width="90%" height="60%" src="figure/6.png"/>
 
 <div align=left>
 
 如上所述，生成三元组是一个昂贵的SHE计算过程。包含了安全性证明过程的完整协议可在[18]中找到。验证部分通过如下的式子求解：
 
-<div align=center><img width="60%" height="36%" src="figure/7.png"/>
+<div align=center><img width="90%" height="60%" src="figure/7.png"/>
 
 <div align=left>
 
@@ -99,7 +99,7 @@ SPDZ。它是一种防御恶意攻击者(不诚实的多数)的协议，为MPC�
 
 公开可验证的SPDZ。在公开可验证的情况下，MAC和计算轨迹的提交被存储在区块链中，因此即使所有n个计算方都是恶意的，该方案也是安全的。我们遵循[18]的表示，它定义了[•] –sharing，如下:
 
-<div align=center><img width="60%" height="36%" src="figure/8.png"/>
+<div align=center><img width="90%" height="60%" src="figure/8.png"/>
 
 <div align=left>
 
@@ -110,13 +110,13 @@ SPDZ。它是一种防御恶意攻击者(不诚实的多数)的协议，为MPC�
 #### 5.2 分层安全MPC
 信息理论结果表明，安全MPC协议要求每个计算节点与所有其他节点进行恒定数量的交互(这需要O(n^2)通信复杂度)。在LSSS的情况下，该计算复杂度适用于乘法运算，而加法运算可以并行计算且无需相互通信。如前所述，安全的加法和乘法协议足以构建一个通用解释器来支持任何代码的安全执行[17]。
 
-<div align=center><img width="60%" height="36%" src="figure/9.png"/>
+<div align=center><img width="70%" height="50%" src="figure/9.png"/>
 
 <div align=left>
 
 Cohen等人[20]最近提出了一种对数深度形式的分层MPC门控来模拟n方安全协议协议，如图3所示。我们将其扩展到LSSS，并且以增加计算复杂度为代价(这部分可并行)将原有的通信复杂度从二次降低成线性复杂度。图4说明了普通的MPC会如何受到参与方数量限制，而我们的实现(ps-MPC)可扩展到任意大型网络。
 
-<div align=center><img width="60%" height="36%" src="figure/10.png"/>
+<div align=center><img width="70%" height="50%" src="figure/10.png"/>
 
 <div align=left>
 
@@ -128,7 +128,7 @@ Cohen等人[20]最近提出了一种对数深度形式的分层MPC门控来模�
 对于简单函数或是涉及极少输入的函数来说，适应性电路不是必须要被采纳的，因为这些函数计算速度本身就很快，不需要再对这些函数进行额外的处理。
 然而，对于代码量较大或是数据量较大的函数，我们可以在计算时动态地减少计算节点的数量，而不是在整个函数执行过程中使用固定数量的节点。具体来说，我们设计了一个前馈网络(如图5所示，从输入开始，中间结果一步步变化到输出)。图5的原始代码已经被重新组织过，我们首先处理输入中的加法门，然后处理乘法门。中间结果会与N/c个节点秘密共享，并且不断递归类似的过程。
 
-<div align=center><img width="60%" height="36%" src="figure/11.png"/>
+<div align=center><img width="70%" height="50%" src="figure/11.png"/>
 
 <div align=left>
 
@@ -153,7 +153,7 @@ Cohen等人[20]最近提出了一种对数深度形式的分层MPC门控来模�
 近期的一份调查论文将区块链技术分为两类：完全去中心化的免许可式账本（例如比特币、以太坊）和半中心化的许可式账本(例如Ripple)[21]。这篇论文中作者认为，一个系统在去中心化程度上存在固有的权衡考量：如果网络完全去中心化，那么就无法验证参与方身份(尽管只是伪匿名身份)，而带有可信节点的弱中心化系统可以验证真实身份, 但是这牺牲了去中心化程度。通过可链接到公共区块链的链下技术，我们可以避免以上的权衡考量，并让网络保持完全去中心化。
 在Enigma中，我们定义了一种扩展身份，用来捕获多个实体间的共享身份及其语义。形式上，共享身份的伪匿名部分(pseudo-anonymous)是一个(2n+1)元组
 
-<div align=center><img width="60%" height="36%" src="figure/12.png"/>
+<div align=center><img width="90%" height="60%" src="figure/12.png"/>
 
 <div align=left>
 
@@ -168,23 +168,23 @@ Cohen等人[20]最近提出了一种对数深度形式的分层MPC门控来模�
 #### 6.2.1 访问控制
 下面算法1描述了共享身份的创建过程，算法2描述了如何在公开合约中实现访问权限的检查验证。
 
-<div align=center><img width="60%" height="36%" src="figure/14.png"/>
+<div align=center><img width="70%" height="50%" src="figure/14.png"/>
 
-<div align=center><img width="60%" height="36%" src="figure/15.png"/>
+<div align=center><img width="70%" height="50%" src="figure/15.png"/>
 
 <div align=left>
 
 #### 6.2.2 存储和加载
 算法3描述了如何通过DHT存储和加载数据。对于存储数据操作，需要使用给定的q-store谓词规则检查写入权限。存储方可以自定义数据读取权限检查的规则。这就是在脚本语言中使用DHT对象进行抽象的底层过程。
 
-<div align=center><img width="60%" height="36%" src="figure/16.png"/>
+<div align=center><img width="70%" height="50%" src="figure/16.png"/>
 
 <div align=left>
 
 #### 6.2.3 共享和计算
 算法4描述了MPC中的共享和计算协议。它们存储和加载来自DHT的共享数据，能够在保证数据安全的基础上，使用数据的引用(共享单元)来进行计算。
 
-<div align=center><img width="60%" height="36%" src="figure/17.png"/>
+<div align=center><img width="70%" height="50%" src="figure/17.png"/>
 
 <div align=left>
 
