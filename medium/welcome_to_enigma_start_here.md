@@ -20,21 +20,24 @@
   
 ### 目录
 
-- [什么是Enigma协议以及它如何工作？]())
+- [什么是Enigma协议以及它如何工作？](id1)
 
-- [你能用Enigma构建什么？]()
+- [你能用Enigma构建什么？](id2)
 
-- [Enigma节点和ENG代币]()
+- [Enigma节点和ENG代币](id3)
 
-- [Enigma的隐私技术]()
+- [Enigma的隐私技术](id4)
 
-- [团队、社区和Enigma Collective]()
+- [团队、社区和Enigma Collective](id5)
 
-- [Enigma的未来]()
+- [Enigma的未来](id6)
 
-- [Decentralize This！博客节目]()
+- [Decentralize This！博客节目](id7)
+
+
 
 ### 1. 什么是Enigma协议以及它如何工作？
+<span id="id1"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/3.png"/>
 <div align=center><img width="60%" height="36%" src="figure/4.png"/>
@@ -85,6 +88,7 @@
 <div align=left>
 
 ### 7. Decentralize This！博客节目
+<span id="id7"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/13.png"/>
   
