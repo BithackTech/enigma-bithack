@@ -13,6 +13,7 @@
 在这篇博文中，您将可以看到有关Enigma所有内容的目录，例如团队和代币分发情况。我们还将分享一些资源帮助您追踪和参与到我们的项目、协议和社区。 Enimga团队将不断维护更新这篇博文和文档目录。
 
 <div align=center><img width="60%" height="36%" src="figure/2.png"/>
+  [link](https://www.youtube.com/watch?v=qeJn8YgDIlw)
 
 <div align=left>
   
