@@ -37,7 +37,7 @@
 
 
 ### 1. 什么是Enigma协议以及它如何工作？
-<span id="id1"></span>
+<a href="id1">内容</a>
 
 <div align=center><img width="60%" height="36%" src="figure/3.png"/>
 <div align=center><img width="60%" height="36%" src="figure/4.png"/>
@@ -88,7 +88,7 @@
 <div align=left>
 
 ### 7. Decentralize This！博客节目
-<span id="id7"></span>
+<a href="id7">内容</a>
 
 <div align=center><img width="60%" height="36%" src="figure/13.png"/>
   
