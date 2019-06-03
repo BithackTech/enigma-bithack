@@ -14,7 +14,7 @@
 
 <div align=center><img width="60%" height="36%" src="figure/2.png"/> 
 
-[video](https://www.youtube.com/watch?v=qeJn8YgDIlw)
+[[video](https://www.youtube.com/watch?v=qeJn8YgDIlw)]
 
 <div align=left>
   
