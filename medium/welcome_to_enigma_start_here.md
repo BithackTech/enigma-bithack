@@ -4,15 +4,15 @@
 
 在Enigma中，我们正努力实现去中心化互联网的愿景。 这份介绍指南完整地阐述了Enigma项目的发展和我们团队的相关信息。
 
-<div align=center><img width="50%" height="30%" src="figure/1.png"/>
+<div align=center><img width="60%" height="36%" src="figure/1.png"/>
 
 <div align=left>
+  
 欢迎来到Enigma博客！无论您是从2015年的最初阶段开始关注到了我们的项目，还是从现在开始学习Enigma的隐私方案，我们都希望您能够轻松搜索我们的文章、资源和代码。
-
 
 在这篇博文中，您将可以看到有关Enigma所有内容的目录，例如团队和代币分发情况。我们还将分享一些资源帮助您追踪和参与到我们的项目、协议和社区。 Enimga团队将不断维护更新这篇博文和文档目录。
 
-<div align=center><img width="50%" height="30%" src="figure/2.png"/>
+<div align=center><img width="60%" height="36%" src="figure/2.png"/>
 
 <div align=left>
   
