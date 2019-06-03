@@ -2,6 +2,7 @@
 
 ### Translated 
 - [Blockchain Privacy: Transactional or Computational?](https://github.com/BithackTech/enigma-bithack/blob/master/medium/privacy_transactional_or_computational.md)
+- [Welcome to Enigma! Start Here.](https://github.com/BithackTech/enigma-bithack/blob/master/medium/welcome_to_enigma_start_here.md)
 
 ### GTD
 
