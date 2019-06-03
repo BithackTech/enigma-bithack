@@ -22,22 +22,22 @@
 
 - [什么是Enigma协议以及它如何工作？](#id1)
 
-- [你能用Enigma构建什么？](id2)
+- [你能用Enigma构建什么？](#id2)
 
-- [Enigma节点和ENG代币](id3)
+- [Enigma节点和ENG代币](#id3)
 
-- [Enigma的隐私技术](id4)
+- [Enigma的隐私技术](#id4)
 
-- [团队、社区和Enigma Collective](id5)
+- [团队、社区和Enigma Collective](#id5)
 
-- [Enigma的未来](id6)
+- [Enigma的未来](#id6)
 
 - [Decentralize This！博客节目](#id7)
 
 
 
 ### 1. 什么是Enigma协议以及它如何工作？
-<span id="id1">Hello World</span>
+<span id="id1"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/3.png"/>
 <div align=center><img width="60%" height="36%" src="figure/4.png"/>
@@ -49,6 +49,7 @@
 <div align=left>
 
 ### 2. 你能用Enigma构建什么？
+<span id="id2"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/6.png"/>
 
@@ -67,6 +68,7 @@
 <div align=left>
 
 ### 3. Enigma节点和ENG代币
+<span id="id3"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/9.png"/>
 <div align=center><img width="60%" height="36%" src="figure/10.png"/>
@@ -74,21 +76,24 @@
 <div align=left>
 
 ### 4. Enigma的隐私技术
+<span id="id4"></span>
 
 ### 5. 团队、社区和Enigma Collective
+<span id="id5"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/11.png"/>
 
 <div align=left>
 
 ### 6. Enigma的未来
+<span id="id6"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/12.png"/>
 
 <div align=left>
 
 ### 7. Decentralize This！博客节目
-<span id="id7">Hello World</span>
+<span id="id7"></span>
 
 <div align=center><img width="60%" height="36%" src="figure/13.png"/>
   
