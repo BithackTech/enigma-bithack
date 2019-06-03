@@ -1,6 +1,6 @@
 ## 欢迎来到Enigma！从这里开始.
 原文：[Welcome to Enigma! Start Here.](https://blog.enigma.co/welcome-to-enigma-start-here-e65c8c9125ef)  
-翻译: 李其柄
+翻译: 李其柄、高天尧、程冠杰
 
 在Enigma中，我们正努力实现去中心化互联网的愿景。 这份介绍指南完整地阐述了Enigma项目的发展和我们团队的相关信息。
 
