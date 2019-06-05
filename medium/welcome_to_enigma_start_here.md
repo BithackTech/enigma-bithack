@@ -54,7 +54,7 @@
     
 </span>
 
-Enigma 是一个极其灵活的多功能平台。它可以在当今的数字时代用来解决一些最迫切的挑战。为了凸显这些挑战，我们创建了[Enigma Solutions](https://blog.enigma.co/solutions/home)专栏:浅显易懂地理解Enigma可以使用的方式与场景。
+Enigma 是一个极其灵活的多功能平台。它可以在当今的数字时代用来解决一些最迫切的挑战。为了凸显这些挑战，我们创建了[Enigma Solutions](https://blog.enigma.co/solutions/home)专栏：浅显易懂地理解Enigma可以使用的方式与场景。
 
 在这个专栏里你可以了解Enigma如何保证[隐私拍卖](https://blog.enigma.co/secret-auctions-with-enigma-83647a141fb5)的隐私性，如何实现[去中心化信誉积分系统](https://blog.enigma.co/decentralizing-credit-with-enigma-440c6648b4d8),如何实现[用TCRs做安全投票](https://blog.enigma.co/private-voting-for-tcrs-with-enigma-b441b5d4fa7b),如何确保[DMS](https://blog.enigma.co/tell-no-tales-decentralizing-a-dead-mans-switch-6217e2f4361b)的安全问题，以及如何帮助[决定你自己是否是人类](https://blog.enigma.co/bot-or-not-f7108200738d)。**[近期，我们公布了8个使用Enigma协议构建这些重要解决方案的初始发起伙伴](https://blog.enigma.co/introducing-the-enigma-launch-partners-642336f752cc)**。我们在[Devcon4](https://www.pscp.tv/w/1LyGByezgbyKN)上展示了一个“秘密投票”的demo，现在已经在Enigma测试网络中积极开发中。
 
