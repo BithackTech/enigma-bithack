@@ -50,7 +50,19 @@
 <div align=left>
 
 ### 2. 你能用Enigma构建什么？
-<span id="id2"></span>
+<span id="id2">
+    
+</span>
+
+Enigma 是一个极其灵活的多功能平台。它可以在当今的数字时代用来解决一些最迫切的挑战。为了凸显这些挑战，我们创建了[Enigma Solutions](https://blog.enigma.co/solutions/home)专栏:浅显易懂地理解Enigma可以使用的方式与场景。
+
+在这个专栏里你可以了解Enigma如何保证[隐私拍卖](https://blog.enigma.co/secret-auctions-with-enigma-83647a141fb5)的隐私性，如何实现[去中心化信誉积分系统](https://blog.enigma.co/decentralizing-credit-with-enigma-440c6648b4d8),如何实现[用TCRs做安全投票](https://blog.enigma.co/private-voting-for-tcrs-with-enigma-b441b5d4fa7b),如何确保[DMS](https://blog.enigma.co/tell-no-tales-decentralizing-a-dead-mans-switch-6217e2f4361b)的安全问题，以及如何帮助[决定你自己是否是人类](https://blog.enigma.co/bot-or-not-f7108200738d)。**[近期，我们公布了8个使用Enigma协议构建这些重要解决方案的初始发起伙伴](https://blog.enigma.co/introducing-the-enigma-launch-partners-642336f752cc)**。我们在[Devcon4](https://www.pscp.tv/w/1LyGByezgbyKN)上展示了一个“秘密投票”的demo，现在已经在Enigma测试网络中积极开发中。
+
+Enigma对于如何在一个更加去中心化的未来中引入数据隐私与权限也有着重大意义。我们在之前已经写过有关[GDPR合规](https://blog.enigma.co/gdpr-and-enigma-were-updating-blockchain-s-privacy-policy-d245ab00da07)并且Enigma如何能够帮助阻止下一个[剑桥Analytica](https://blog.enigma.co/why-blockchain-alone-cant-fix-facebook-fbd9510b36f5)发生
+
+Enigma协议也有在加密货币的前景上有紧急的应用场景，就像确保[隐私与更安全的ICO](https://blog.enigma.co/secret-icos-and-privacy-tokens-d77ed505514d)并且启动可以阻止前端运行的去中心化中继器。
+
+上述的解决方案没有很详细与彻底！你可以在[我们的开发者论坛](https://forum.enigma.co/)上贡献你自己对于Enigma有潜力的应用的想法
 
 <div align=center><img width="60%" height="36%" src="figure/6.png"/>
 
