@@ -118,9 +118,9 @@ Enigma的设计总是考虑了终端用户。我们不仅仅是一个学术项�
 
 >来自STEX25网站：“STEX25初创公司已被定位为特别的产业合作伙伴。这些年轻且充满活力的公司已经证明了自己的早期使用案例、客户、演示或合作伙伴关系，并可能处于显着增长的尖端。“
 
-**想使用我们的协议构建应用？**在此提交您的[申请表](https://airtable.com/shraD9Oo5HPmRR9eE)。
+**想使用我们的协议构建应用**？在此提交您的[申请表](https://airtable.com/shraD9Oo5HPmRR9eE)。
 
-**想帮助我们构建Enigma生态系统的关键部分吗？**立即申请[Enigma Growth Grant(EGG)](https://blog.enigma.co/announcing-eggs-enigma-growth-grants-c61d985b670e)！
+**想帮助我们构建Enigma生态系统的关键部分吗**？立即申请[Enigma Growth Grant(EGG)](https://blog.enigma.co/announcing-eggs-enigma-growth-grants-c61d985b670e)！
 
 <div align=center><img width="60%" height="36%" src="figure/8.png"/>
 
