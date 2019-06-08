@@ -119,53 +119,76 @@ ZKP最简单的类型就是知识的证明。在这个版本中，证明者必�
 
 ### 5. 团队、社区和Enigma Collective
 
-自我们的团队成立以来，越来越多的人认识到隐私可以帮助构建一个更美好的未来。作为一个团队和一个社区，我们有责任向广大公众传授为什么创建新的数据隐私解决方案如此重要，以及为什么我们必须抵制那些利用其用户行为而不是返回价值的过度集中化的组织机构。**借助一些新兴技术，我们可以共同构建我们所向往的去中心化的未来。**
+自团队成立以来，我们确实让越来越多的人认识到隐私可以帮助构建一个更美好的未来。作为一个团队和一个社区，我们有责任向广大公众传授为什么创建新的数据隐私解决方案如此重要，以及为什么我们必须抵制那些利用其用户行为而不是返回价值的过度中心化的的组织机构。**借助一些新兴技术，我们可以共同构建我们所向往的去中心化的未来。**
 
-自我们的团队成立以来，越来越多的人认识到隐私可以帮助构建一个更美好的未来。作为一个团队和一个社区，我们有责任向广大公众传授为什么创建新的数据隐私解决方案如此重要，以及为什么我们必须抵制那些利用其用户行为而不是返回价值的过度集中化的组织机构。借助一些创新技术，我们可以共同构建我们所向往的去中心化的未来。
-[我们的团队](https://enigma.co/team/)由经验丰富的开发人员和企业家组成，其中许多人以前是麻省理工学院（我们项目开始的地方）的研究生，研究人员和教育工作者。我们在分布式技术以及数据科学和数据隐私方面拥有深厚的专业知识。您可以亲眼看到我们的团队[成长](https://blog.enigma.co/meet-the-enigma-dev-team-and-join-us-9f9c1a65de33)和[发展](https://blog.enigma.co/introducing-the-growing-enigma-team-8c8233db335c)[壮大](https://blog.enigma.co/yep-were-still-growing-introducing-enigma-s-latest-hires-6a5f1eef3462)的速度有多迅猛！
+[我们的团队](https://enigma.co/team/)由经验丰富的开发者和商务人员组成，其中许多人先前是麻省理工学院（我们项目开始的地方）的毕业生、研究人员和教育工作者。我们在去中心化技术以及数据科学和数据隐私方面拥有深厚的专业知识。您可以亲眼看到我们的团队[成长](https://blog.enigma.co/meet-the-enigma-dev-team-and-join-us-9f9c1a65de33)和[发展](https://blog.enigma.co/introducing-the-growing-enigma-team-8c8233db335c)[壮大](https://blog.enigma.co/yep-were-still-growing-introducing-enigma-s-latest-hires-6a5f1eef3462)的速度有多迅猛！
 
-在[Epicenter interview](https://www.youtube.com/watch?v=ajAUByRZGWM)和[CoinTelegraph interview](https://cointelegraph.com/news/enigma-s-guy-zyskind-i-m-pro-whatever-kind-of-blockchain-fits-decentralization-ideals)中聆听我们的首席执行官和联合创始人Guy Zyskind谈论Enigma以及他的相关工作。
+*在[Epicenter interview](https://www.youtube.com/watch?v=ajAUByRZGWM)和[CoinTelegraph interview](https://cointelegraph.com/news/enigma-s-guy-zyskind-i-m-pro-whatever-kind-of-blockchain-fits-decentralization-ideals)中聆听我们的首席执行官和联合创始人Guy Zyskind谈论Enigma以及他的相关工作。*
 
 我们在Enigma有很多公共社区，从我们的[Telegram](https://t.me/enigmaproject)小组到我们的[Reddit](https://www.reddit.com/r/enigmaproject)，再到我们的[开发者论坛](https://forum.enigma.co/)。
 
-Enigma社区的核心是[Enigma Collective](https://blog.enigma.co/collective/home)。他们是一个惊人的（并且正在快速增长！）几乎分布在世界每个时区的不同区块链群体，比如区块链爱好者、开发者、作家、设计师、企业家、投资者以及诗人和哲学家，他们所有人都致力于实现一个类似Enigma的真正去中心化的世界。其中超过50个来自15个国家的Collective成员担任教育工作者和策划者，他们直接与Enigma核心团队合作，帮助我们驱动和实现Enigma的使命。
+Enigma社区的核心是[Enigma Collective](https://blog.enigma.co/collective/home)。他们是一个惊人的（并且正在快速增长的！）、由分布在近乎世界上每个时区的不同区块链群体构成，比如爱好者、开发者、作家、设计师、企业家、投资者以及诗人和哲学家，他们所有人都致力于实现一个类似Enigma的真正去中心化的世界。其中超过50个来自15个国家的Collective成员担任教育工作者和策划者，他们直接与Enigma核心团队合作，帮助我们驱动和实现Enigma的使命。
 我们之前发布过一些Enigma Collective活跃成员的个人资料，包括[Kristi](https://blog.enigma.co/meet-the-enigma-ambassadors-1-professor-kristi-yorks-9189294c810c)，[Brendan](https://blog.enigma.co/meet-the-enigma-ambassadors-2-brendan-kittredge-2b3ebc0417c6)和[Josh](https://blog.enigma.co/meet-the-enigma-ambassadors-3-josh-lines-d1f2c1350634)。在[此处](https://blog.enigma.co/introducing-the-enigma-collective-3b5cefdda167)了解有关该计划的更多信息，如果您想加入Collective，请在[此处](https://airtable.com/shry2jO40qy6e8CnS)申请！
 
 
 <span id="id5"></span>
 
-<div align=center>< img width="60%" height="36%" src="figure/11.png"/>
+<div align=center><img width="60%" height="36%" src="figure/11.png"/>
 
 <div align=left>
 
 ### 6. Enigma的未来
 
-Enigma此前[已宣布](https://blog.enigma.co/expanding-enigmas-roadmap-towards-a-privacy-layer-for-the-decentralized-web-f1d6b7908251)了一系列计划的公开发布，每个发布都为我们的协议增加了额外的功能。这始于我们在2018年6月发布的初始测试网，接下来就是我们即将要发布的Discovery。 （阅读[更多](https://blog.enigma.co/expanding-enigmas-roadmap-towards-a-privacy-layer-for-the-decentralized-web-f1d6b7908251)关于扩展Enigma的路线图。）
+Enigma此前[已宣布](https://blog.enigma.co/expanding-enigmas-roadmap-towards-a-privacy-layer-for-the-decentralized-web-f1d6b7908251)了一系列公开发布版本的计划，每个发布都为我们的协议增加了额外的功能。这始于我们在2018年6月发布的初始测试网，接下来就是我们即将要发布的Discovery。 （阅读[更多](https://blog.enigma.co/expanding-enigmas-roadmap-towards-a-privacy-layer-for-the-decentralized-web-f1d6b7908251)关于扩展Enigma的路线图。）
 
-**Discovery**引入了**“Secret Contracts 1.0”**，它将允许对整个计算状态进行完全加密。这将使得dApp开发人员能够在其智能合约中包含敏感数据，而无需依赖集中式（且安全性较低）的链下系统。 Discovery引入了网络节点和节点奖励，并且还允许Enigma的核心虚拟机（我们的计算引擎）支持WASM。这使得大多数需要的oracle功能已经内置到Enigma中，并且为我们想要实现的任何隐私保护技术提供了一个通用的计算引擎。
+**Discovery**引入了**“Secret Contracts 1.0”**，它将允许对整个计算状态进行完全加密。这将使得dApp开发人员能够在其智能合约中包含敏感数据，而无需依赖中心化（且安全性较低）的链下系统。 Discovery引入了网络节点和节点奖励，并且还允许Enigma的核心虚拟机（我们的计算引擎）支持WASM。这使得大多数需要的oracle功能已经内置到Enigma中，并且为我们想要实现的任何隐私保护技术提供了一个通用的计算引擎。
 
-**Voyager**是我们的第二个主要发行，它专注于为dApps提供更强大的隐私保护。这将使用新的分布式VM，允许运行通用的安全多方计算（MPC）。这将允许开发人员在他们的机密合约中选择不同的执行引擎--TEE（Secret Contracts 1.0）或MPC（Secret Contracts 2.0）。
+**Voyager**是我们的第二个主要发行，它专注于为dApps提供更强大的隐私保护。这将使用新的分布式VM，允许运行通用的安全多方计算（MPC）。这将允许开发人员在他们的隐私合约中选择不同的执行引擎--TEE（Secret Contracts 1.0）或MPC（Secret Contracts 2.0）。
 Valiant将在Enigma链中引入一个完全开放和安全的共识，同时通过使用更精细的分片来提高性能。
 
-**Defiant**带来完全的链独立性。Enigma网络将完全独立于其他网络运行其内部Enigma链。在此版本中，我们还将发布加密协议（主要围绕MPC）的主要更新，这些更新都会增加安全性和分布性。Defiant是Enigma的权威“训练轮关”阶段。
+**Defiant**带来完全的链独立性。Enigma网络将完全独立于其他网络来运行其内部Enigma链。在此版本中，我们还将发布加密协议（主要围绕MPC）的主要更新，这些更新都会增加安全性和分布性。Defiant是Enigma的权威“training-wheels-off”阶段。
 
-Defiant版本绝不是我们旅程的终结。这只是迈向我们使命的另一个关键步骤——发展和改进Enigma扩展我们的开发人员社区，实现全球采用，以及解决世界上对隐私和真正去中心化的一些最大挑战。
+Defiant版本绝不是我们旅程的终结。这只是迈向我们使命的一个关键步骤--即发展和改进Enigma、扩展我们的开发人员社区、实现全球的协议采用、以及解决关于隐私和真正去中心化的一些最大的世界性挑战。
 
 <span id="id6"></span>
 
-<div align=center>< img width="60%" height="36%" src="figure/12.png"/>
+<div align=center><img width="60%" height="36%" src="figure/12.png"/>
 
 <div align=left>
 
 ### 7. Decentralize This！播客节目
 
-作为我们对社区的教育责任的一部分，我们希望探索那些阻碍了分布式技术被广泛采用的困难——同时强调协作对实现一个分布式未来的共同目标的重要性。
-“Decentralize This！”是一个播客，集中了来自所有分布式领域的嘉宾：有开发商，投资者，企业家，研究人员，作家，艺术家，政府和企业人员——所有对建立一个更加分布和可持续发展的世界非常关心的个体。我们要回答的问题是：**所有具有不同观点的人如何进行合作来为塑造更美好的未来创造所需的技术？**
+考虑到我们对社区的教育义务，我们希望探索那些阻碍去中心化技术被广泛采用的困难——同时强调协作对实现去中心化未来这个共同目标的重要性。
+“Decentralize This！”是一个播客节目，集中了去中心化领域的诸多嘉宾：有开发者、投资者、企业家、研究人员、作家、艺术家和政府人员——那些真正对建立一个更加去中心化和可持续发展的世界关心的个体。我们要回答的问题是：**所有具有不同观点的人如何进行合作来创造和发展所需技术，从而塑造更美好的未来？**
 
 收听[Spotify](https://open.spotify.com/show/1TIx9MAFdaQidDVz32EacG)，[iTunes](https://podcasts.apple.com/us/podcast/decentralize-this/id1438776388?mt=2)，[SoundCloud](https://soundcloud.com/decentralize-this)，或访问我们在Medium上的播客[landing page](https://blog.enigma.co/podcast/home)。
 
 <span id="id7"></span>
 
-<div align=center>< img width="60%" height="36%" src="figure/13.png"/>
+<div align=center><img width="60%" height="36%" src="figure/13.png"/>
   
 <div align=left>
+
+
+### 8. 我该如何关注Enigma项目？
+
+我们很乐意让您加入社区，跟上我们的进步和发展。我们致力于提高透明度，并希望让社区成员与Enigma互动并做出贡献。我们很想听听您的意见并回答您的问题。
+
+** 官方频道：**
+Enigma网站：[https://enigma.co/](https://enigma.co/)
+
+Medium: [https://blog.enigma.co](https://blog.enigma.co)  
+telegram：[https://t.me/EnigmaProject](https://t.me/EnigmaProject)  
+Twitter：[https://twitter.com/EnigmaMPC](https://twitter.com/EnigmaMPC)  
+Reddit：[https://reddit.com/r/EnigmaProject](https://reddit.com/r/EnigmaProject)  
+YouTube：[https://www.youtube.com/channel/UCyyl1qq8o7uIKd9caF1fanw](https://www.youtube.com/channel/UCyyl1qq8o7uIKd9caF1fanw)  
+Enigma开发者论坛：[https://forum.enigma.co/](https://forum.enigma.co/)
+
+[info@enigma.co](info@enigma.co)
+
+感谢您对Enigma的关注。如果您加入我们，创建一个更加去中心化、可持续的、共同协作的未来，我们将感到很荣幸。我们很乐意帮助您在我们这个由建设者、学习者和梦想家构成的社区里找到一个家。
+
+我们将共同创造我们想要的未来。
+
+Enigma团队
+
