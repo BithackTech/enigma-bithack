@@ -40,30 +40,30 @@
 ### 1. 什么是Enigma协议以及它如何工作？
 <span id="id1"></span>
 
-> "我们从2015年开始解决隐私和扩展性问题，在此之前很多人已经知道什么是区块链，并且也知道区块链未来可能的样子...Enigma是去中心化世界里最具雄心且最重要的项目之一--它正是实现去中心化的、更加可持续的未来的所缺失的一环。"
+> "我们从2015年开始解决隐私和扩展性问题，在此之前很多人已经知道什么是区块链，并且也知道区块链未来可能的样子...Enigma是去中心化世界里最具雄心且最重要的项目之一 —— 它正是实现去中心化的、更加可持续的未来的所缺失的一环。"
 >
-> -- 盖伊·泽斯金德，Enigma CEO与联合创始人
+> —— 盖伊·泽斯金德，Enigma CEO与联合创始人
 
 [Enigma](http://enigma.co/)在为去中心化网络搭建一个隐私层。Enigma起源于MIT的研究，它的[隐私结点](https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd)网络能够在加密的、规模化的数据上进行计算，而不会暴露原始数据本身。最终，若去中心化应用可接受并使用隐私和敏感数据进行计算，用Enigma构建的智能合约将变成 ["隐私合约"](https://blog.enigma.co/defining-secret-contracts-f40ddee67ef2)，这将促进开发者们创建数千种新型且极具价值的解决方案。
 
-[区块链从设计本身就不擅长保护隐私 ](https://blog.coinmarketcap.com/2018/10/09/privacy-for-blockchains-an-introduction/)--这导致的结果就是传统智能合约受到严重限制。它们不能用于接受需要保密的数据。**Enigma正在为dApps能够使用隐私或敏感数据构建首个可扩展性的平台。**隐私合约能解锁dApps的巨大潜力，并且能够革新诸如金融、信贷、博彩、机器学习以及医疗健康等各种依赖于使用隐私数据的产业。它们也有助于将数据权力返回给个人。
+[区块链从设计本身就不擅长保护隐私](https://blog.coinmarketcap.com/2018/10/09/privacy-for-blockchains-an-introduction/) —— 这导致的结果就是传统智能合约受到严重限制。它们不能用于接收需要保密的数据。**Enigma正在构造首个可扩展的去中心化应用平台，允许dApps接收隐私或敏感数据作为输入**。隐私合约能解锁dApps的巨大潜力，并且能够革新诸如金融、信贷、博彩、机器学习以及医疗健康等各种依赖于使用隐私数据的产业。它们也有助于将数据权力返回给个人。
 
-它是如何工作的？我们的[协议](https://blog.enigma.co/protocol)会将敏感数据分成多个部分，并将它们以加密的形式分发给多个Enigma网络结点。结点能够使用这些数据来执行计算，且无需看到原始数据或者暴露这些原始数据本身。除了提供数据隐私外，Enigma还解决了可扩展性问题。**我们相信未来第一个有百万用户的去中心化应用将与Enigma共同构建--Enigma正是去中心化未来的所缺失的重要一环**。
+它是如何工作的？我们的[协议](https://blog.enigma.co/protocol)会将敏感数据分成多个部分，并将它们以加密的形式分发给多个Enigma网络结点。结点能够使用这些数据来执行计算，且无需看到原始数据或者暴露这些原始数据本身。除了提供数据隐私外，Enigma还解决了可扩展性问题。**我们相信未来第一个有百万用户的去中心化应用将通过Enigma来构建 —— Enigma正是去中心化未来的所缺失的重要一环**。
 
-Enigma首次出现在2015年我们的CEO和联合创始人盖伊·泽斯金德的[MIT论文](https://enigma.co/enigma_full.pdf)，这是基础白皮书 [“去中心化隐私”](https://enigma.co/ZNP15.pdf)的前身。这两篇关于隐私和区块链的开创性的论文现在是该领域有最多引用的文章，超过500个综合引用。**我们很骄傲的成为第一个认识到隐私解决方案的本质是去中心化项目成功的关键所在的项目**--并且我们也很自豪能够持续在这个方向做出关键性的努力。同时这些白皮书也是早期的将分离验证(共识)和计算作为可扩展性解决方案的探讨。
+Enigma首次出现在2015年我们的CEO和联合创始人盖伊·泽斯金德的[MIT论文](https://enigma.co/enigma_full.pdf)，这是基础白皮书 [“去中心化隐私”](https://enigma.co/ZNP15.pdf)的前身。这两篇关于隐私和区块链的开创性的论文现在是该领域有最多引用的文章，超过500个综合引用。**令人骄傲地是，我们是第一个认识到隐私解决方案的本质正是去中心化应用成功关键所在的项目** —— 并且我们也很自豪能够持续在这个方向做出关键性的努力。同时这些白皮书也在很早期的时候探讨了可扩展性解决方案，即将共识验证共识和计算分离。
 
-Enigma致力于开放性和包容性。我们是无需许可，开放的网络，并且我们以开源的方式在构建。我们的[公开测试网](https://blog.enigma.co/protocol) 已经可以使用，更多更新在持续发布。你可以在本文阅读更多迄今为止我们的进展和即将进行的的优先事项：
+Enigma致力于开放性和包容性。我们是无需许可的开放网络，并且我们以开源的方式在构建。我们的[公开测试网](https://blog.enigma.co/protocol) 已经可以使用，更多更新在持续发布。你可以在本文阅读更多迄今为止我们的进展和即将进行的的优先事项：
 
 <div align=center><img width="60%" height="36%" src="figure/3.png"/>
 <div align=center><img width="60%" height="36%" src="figure/4.png"/>
 
-[2019：Engima元年](https://blog.enigma.co/2019-the-year-of-enigma-cef8d10366a1)
+[[2019：Engima元年](https://blog.enigma.co/2019-the-year-of-enigma-cef8d10366a1)]
 
-[Enigma开发进展更新：2019.3](https://blog.enigma.co/enigma-development-update-march-2019-74b6c1557d28)
+[[Enigma开发进展更新：2019.3](https://blog.enigma.co/enigma-development-update-march-2019-74b6c1557d28)]
 
-[Enigma开发进展更新：2019.2](https://blog.enigma.co/enigma-development-update-february-2019-2dad12152177)
+[[Enigma开发进展更新：2019.2](https://blog.enigma.co/enigma-development-update-february-2019-2dad12152177)]
 
-[Enigma开发进展更新：2019.1](https://blog.enigma.co/enigma-development-update-january-2019-1f4996a75bdf)
+[[Enigma开发进展更新：2019.1](https://blog.enigma.co/enigma-development-update-january-2019-1f4996a75bdf)]
 
 <div align=left>
 
@@ -71,11 +71,11 @@ Enigma致力于开放性和包容性。我们是无需许可，开放的网络�
 
 <div align=center><img width="60%" height="36%" src="figure/5.png"/>
 
-[定义隐私合约](https://blog.enigma.co/defining-secret-contracts-f40ddee67ef2)
+[[定义隐私合约](https://blog.enigma.co/defining-secret-contracts-f40ddee67ef2)]
 
-[在加密数据上执行计算](https://blog.enigma.co/computing-over-encrypted-data-d36621458447)
+[[在加密数据上执行计算](https://blog.enigma.co/computing-over-encrypted-data-d36621458447)]
 
-[为什么Enigma的隐私协议将驱动去中心化的未来](https://blog.enigma.co/why-enigmas-privacy-protocol-will-power-our-decentralized-future-aedb8c9ee2f6)
+[[为什么Enigma的隐私协议将驱动去中心化的未来](https://blog.enigma.co/why-enigmas-privacy-protocol-will-power-our-decentralized-future-aedb8c9ee2f6)]
 
 <div align=left>
 
@@ -98,11 +98,29 @@ Enigma是一个极其灵活的多功能平台。它可以在当今的数字时�
 
 #### 2.1 如何用Enigma构建隐私应用？
 
+在2018年6月，Enigma在dockerized环境中发布了我们的第一个[功能测试网](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.enigma.co%2Fthe-code-is-here-announcing-enigma-testnet-1-0-release-accdaf051950),[代码](https://github.com/enigmampc/enigma-docker-network-deprecated)可以在我们的GitHub上找到。我们还为使用无法兼容SGX设备的开发人员发布了[模拟模式](https://blog.enigma.co/enigma-testnet-update-simulation-mode-is-now-active-cdecf07fe2ac)。我们提供了与Solidity和以太坊网络的开箱即用的互操作性。
+
+如果您对使用Enigma进行开发感兴趣，请阅读我们的[入门指南](https://blog.enigma.co/getting-started-with-the-enigma-protocol-a-complete-developers-guide-170b7dfa5c0f)，并查看我们的[开发人员文档](http://enigma.co/protocol/)，从而获取您需要的所有帮助。
+
+如果您有任何疑问并希望与社区中的某些人或Enigma团队进行交流，您可以访问我们的开发人员论坛[forum.enigma.co](https://forum.enigma.co)并提出要求！
+
+最后，如果您已经在开展项目并且认为Enigma将在您的开发栈中起到作用，请填写此[公司表](https://airtable.com/shraD9Oo5HPmRR9eE) - 我们总是很高兴与其他建造者合作！
+
 <div align=center><img width="60%" height="36%" src="figure/7.png"/>
 
 <div align=left>
 
 #### 2.2 不断增长的Enigma生态
+
+Enigma的设计总是考虑了终端用户。我们不仅仅是一个学术项目 —— 我们希望为个人和机构建立一个可大规模运行的平台。我们希望在每个阶段确保我们正在解决的是世界上真实确切的问题，并且我们已经在尝试一些迫切需要数据隐私和可扩展性的惊人项目。
+
+我们的重要合作伙伴之一是我们与[英特尔的合作](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.enigma.co%2Fannouncing-enigmas-collaboration-with-intel-43bbf73a86a7)，其中概述了Enigma如何直接与英特尔合作，并利用英特尔的SGX飞地大幅提高隐私计算的速度和性能。我们也是企业以太坊联盟(EEA)和去中心化身份基金会的[成员](https://blog.enigma.co/enigma-joins-enterprise-ethereum-alliance-and-decentralized-identity-foundation-5c765eaad907?gi=84f1f4e95de0)，专注于构建真正的解决方案。我们也是[英特尔Ingenuity](https://www.intel.co.uk/content/www/uk/en/partner/ingenuity-partner/about.html)的合作伙伴和[MIT STEX 25](https://blog.enigma.co/enigma-part-of-mit-stex25-652e0580ee1f)的成员。
+
+>来自STEX25网站：“STEX25初创公司已被定位为特别的产业合作伙伴。这些年轻且充满活力的公司已经证明了自己的早期使用案例、客户、演示或合作伙伴关系，并可能处于显着增长的尖端。“
+
+**想使用我们的协议构建应用？**在此提交您的[申请表](https://airtable.com/shraD9Oo5HPmRR9eE)。
+
+**想帮助我们构建Enigma生态系统的关键部分吗？**立即申请[Enigma Growth Grant(EGG)](https://blog.enigma.co/announcing-eggs-enigma-growth-grants-c61d985b670e)！
 
 <div align=center><img width="60%" height="36%" src="figure/8.png"/>
 
@@ -111,28 +129,29 @@ Enigma是一个极其灵活的多功能平台。它可以在当今的数字时�
 ### 3. Enigma节点和ENG代币
 <span id="id3"></span>
 
-Enigma将隐私保护计算从区块链上移除了，这类计算会在Enigma本身的计算结点网络上执行。这样做，Enigma可以同时解决可扩展性和隐私问题。
+Enigma将隐私计算从区块链上移除了，这类计算将会在Enigma本身的计算结点网络上执行。这样做，Enigma可以同时解决可扩展性和隐私问题。
 
-在Enigma网络上的计算费用会用ENG代币支付，这些费用为执行隐私计算和达成状态共识的结点提供经济上的奖励。Enigma的[秘密结点](https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd)与主节点相似，都需要抵押一定的ENG代币，以确保计算能够正确执行同时确保网络完好。抵押的代币越多，结点能够被选中执行计算的概率越大，这样就能收到更多计算费用。ENG代币可以看作以太协议上的Gas代币：用户向结点支付Gas来执行计算。隐私结点最少需要抵押25,000个ENG。
+在Enigma网络上的计算费用会用ENG代币支付，这些费用用来给执行隐私计算和达成状态共识的结点提供经济上的奖励。Enigma的[隐私结点](https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd)与主节点相似，都需要抵押一定的ENG代币，以确保计算能够正确执行同时确保网络完好。抵押的代币越多，结点能够被选中执行计算的概率越大，这样就能收到更多计算费用。ENG代币可以看作以太协议上的Gas代币：用户向结点支付Gas来执行计算。隐私结点最少需要抵押25,000个ENG。
 
 主网上的隐私结点会在测试网运行期间选择，这个时间段被称之为**创世游戏**。在这段时间内，具有最多抵押测试代币和最长运行时间的结点将成为**创世结点**。如果你对运行隐私结点感兴趣，请仔细阅读下面的文章。
 
 <div align=center><img width="60%" height="36%" src="figure/9.png"/>
-[秘密结点，第三部分：奖励，要求和创世游戏](https://blog.enigma.co/secret-nodes-part-3-rewards-requirements-and-the-genesis-game-cfbe81dad455)
+
+[[秘密结点，第三部分：奖励，要求和创世游戏](https://blog.enigma.co/secret-nodes-part-3-rewards-requirements-and-the-genesis-game-cfbe81dad455)]
 
 <div align=left>
 
 随着Enigma沿着它的路线图向前推进，结点将会分成两个类型，列举如下(进一步的细节将在这篇文章中扩展更多 [探索Enigma结点和抵押](https://blog.enigma.co/secret-nodes-exploring-staking-stakeholders-and-eng-d69a68e3d0fd))：
 
-*秘密结点*：秘密结点是网络的参与者，运行在Enigma的网络上用于确保秘密合约在保护隐私的情况下运行。Enigma网络上的结点与在比特币网络上的矿工类似。
+*隐私结点*：隐私结点是网络的参与者，运行在Enigma的网络上用于确保隐私合约在保护隐私的情况下运行。Enigma网络上的结点与在比特币网络上的矿工类似。
 
-*共识结点*：共识结点将运行Enigm区块链本身--它们验证计算并确定状态改变的最终顺序。(在第一版本，Discovery里，这个类型的结点还没实现，现在依赖以太坊验证。)
+*共识结点*：共识结点将运行Enigm区块链本身 —— 它们验证计算并确定状态改变的最终顺序。(在第一版本，Discovery里，这个类型的结点还没实现，现在依赖以太坊验证。)
 
-请填写这个[意向表格](https://airtable.com/shrCCgrSgDhZPTorG)成为我们秘密结点邮件列表的一分子。你也可以在我们的[开发者论坛](https://forum.enigma.co/signup)中发表见解，或者加入我们的[社区电报群](https://t.me/secretnodes)
+请填写这个[意向表格](https://airtable.com/shrCCgrSgDhZPTorG)成为我们隐私结点邮件列表的一分子。你也可以在我们的[开发者论坛](https://forum.enigma.co/signup)中发表见解，或者加入我们的[社区电报群](https://t.me/secretnodes)
 
 <div align=center><img width="60%" height="36%" src="figure/10.png"/>
 
-[秘密结点--Enigma](https://blog.enigma.co/secretnodes/home)
+[[秘密结点 —— Enigma](https://blog.enigma.co/secretnodes/home)]
 
 <div align=left>
 
@@ -171,7 +190,7 @@ ZKP最简单的类型就是知识的证明。在这个版本中，证明者必�
 
 [我们的团队](https://enigma.co/team/)由经验丰富的开发者和商务人员组成，其中许多人先前是麻省理工学院（我们项目开始的地方）的毕业生、研究人员和教育工作者。我们在去中心化技术以及数据科学和数据隐私方面拥有深厚的专业知识。您可以亲眼看到我们的团队[成长](https://blog.enigma.co/meet-the-enigma-dev-team-and-join-us-9f9c1a65de33)和[发展](https://blog.enigma.co/introducing-the-growing-enigma-team-8c8233db335c)[壮大](https://blog.enigma.co/yep-were-still-growing-introducing-enigma-s-latest-hires-6a5f1eef3462)的速度有多迅猛！
 
-*在[Epicenter interview](https://www.youtube.com/watch?v=ajAUByRZGWM)和[CoinTelegraph interview](https://cointelegraph.com/news/enigma-s-guy-zyskind-i-m-pro-whatever-kind-of-blockchain-fits-decentralization-ideals)中聆听我们的首席执行官和联合创始人Guy Zyskind谈论Enigma以及他的相关工作。*
+>在[Epicenter interview](https://www.youtube.com/watch?v=ajAUByRZGWM)和[CoinTelegraph interview](https://cointelegraph.com/news/enigma-s-guy-zyskind-i-m-pro-whatever-kind-of-blockchain-fits-decentralization-ideals)中聆听我们的首席执行官和联合创始人Guy Zyskind谈论Enigma以及他的相关工作。
 
 我们在Enigma有很多公共社区，从我们的[Telegram](https://t.me/enigmaproject)小组到我们的[Reddit](https://www.reddit.com/r/enigmaproject)，再到我们的[开发者论坛](https://forum.enigma.co/)。
 
